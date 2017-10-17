@@ -1,2 +1,2 @@
 # minutebot
-The bot behind the Telegram channel @minute
+A bot that posts the UTC time to a Telegram channel every minute
